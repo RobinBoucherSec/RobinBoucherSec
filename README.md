@@ -15,6 +15,7 @@ I thrive in what I do. I expect nothing less than greatness from my upcoming ach
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Hashes                                         | <a href="https://github.com/RobinBoucherSec/Hashcat-Intro">Making and Cracking Hashes Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -61,4 +62,4 @@ I thrive in what I do. I expect nothing less than greatness from my upcoming ach
 </div>
 
 ## Projects
-- Hashcat Intro
+- <a href="https://github.com/RobinBoucherSec/Hashcat-Intro">Making and Cracking Hashes Lab</a>
