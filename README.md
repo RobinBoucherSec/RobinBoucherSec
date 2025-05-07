@@ -3,11 +3,11 @@
 
 
 
-I am a dedicated student in cybersecurity at Cumberland College. Proud to be leaning so much and happy to publish my work here.
+I am a dedicated student in cybersecurity at Cumberland College. Honestly, I learn more outside of school doing anything else that will challenge my cybersecurity skills. Proud to be leaning so much and happy to publish my work here.
 
 ## Objective
 
-I thrive in what I do. I expect nothing less than greatness from my upcoming achievements, which I will publish here. I am thrilled to accomplish more each time I dive into the amazing field of cybersecurity.
+I expect nothing less than greatness from my upcoming achievements, which I will publish here. I am thrilled to accomplish more each time I dive into the amazing field of cybersecurity.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
