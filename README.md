@@ -54,6 +54,8 @@ Here, I showcase my ongoing projects in the form of a portfolio.
 
 </div>
 
+## Socials
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robin-boucher-6a0327267/)
 
 
