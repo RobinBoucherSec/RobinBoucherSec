@@ -10,7 +10,7 @@ I am a dedicated student in cybersecurity at Cumberland College. I am so happy t
 
 ## Objective
 
-Here, I showcase my ongoing projects. Take your time !
+Here, I showcase my ongoing projects in the form of a portfolio.
 
 ## Skills
 
