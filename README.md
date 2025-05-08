@@ -23,9 +23,7 @@ Here, I showcase my ongoing projects in the form of a portfolio.
 | Other subject of projects                     | <a href="ENTER THE GITHUB LINK HERE">WITH THE NAME HERE
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
 <div>
   <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-1679A7?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -35,17 +33,17 @@ Here, I showcase my ongoing projects in the form of a portfolio.
 </div>
 
 
-### SIEM
+
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-### Identity Access Management
+
 <div>
   <img src="https://img.shields.io/badge/-Active_Directory-1679A7?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
-### Others
+
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 
 ## Certifications
