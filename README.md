@@ -1,13 +1,16 @@
-# Hello, I'm Robin
+<h1> <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="28"></a>
+Hello, I'm Robin</a> 👨🏻‍💻
+</h1>
+  
 <a href="https://www.linkedin.com/in/robin-boucher-6a0327267/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
-I am a dedicated student in cybersecurity at Cumberland College. Honestly, I learn more outside of school doing anything else that will challenge my cybersecurity skills. Proud to be leaning so much and happy to publish my work here.
+I am a dedicated student in cybersecurity at Cumberland College. I am so happy that I finally found a field of interest that will keep me going for good. I am diving deep in cybersecurity and I will publish my work here. Enjoy!
 
 ## Objective
 
-I expect nothing less than greatness from my upcoming achievements, which I will publish here. I am thrilled to accomplish more each time I dive into the amazing field of cybersecurity.
+Here, I showcase my ongoing projects. Take your time !
 
 ## Skills
 
@@ -40,13 +43,15 @@ I expect nothing less than greatness from my upcoming achievements, which I will
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ### Identity Access Management
 <div>
   <img src="https://img.shields.io/badge/-Active_Directory-1679A7?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
+
+### Others
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 
 ## Certifications
 
