@@ -10,13 +10,13 @@ I am a dedicated student in cybersecurity at Cumberland College. Honestly, I lea
 I expect nothing less than greatness from my upcoming achievements, which I will publish here. I am thrilled to accomplish more each time I dive into the amazing field of cybersecurity.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Hashes                                         | <a href="https://github.com/RobinBoucherSec/Hashcat-Intro">Making and Cracking Hashes Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Identity Access Management IAM | 
+| Hashes                                        | <a href="https://github.com/RobinBoucherSec/Hashcat-Intro">Making and Cracking Hashes Lab</a>|
+| Networking                                    | <a href="https://github.com/RobinBoucherSec/Cisco-Packet-Tracer-Basic-Network/blob/main/README.md">Detection Lab</a>|
+| Identity Access Management IAM                | <a href="https://github.com/RobinBoucherSec/Active-Directory-Home-Lab">Active Directory Home Lab
+| Other subject of projects                     | <a href="ENTER THE GITHUB LINK HERE">WITH THE NAME HERE
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
