@@ -8,9 +8,10 @@ Hello, I'm Robin</a> 👨🏻‍💻
 
 I am a dedicated student in cybersecurity at Cumberland College. I am so happy that I finally found a field of interest that will keep me going for good. I am diving deep in cybersecurity and I will publish my work here. Enjoy!
 
-## Objective
 
 Here, I showcase my ongoing projects in the form of a portfolio.
+
+<h1>
 
 ## Skills
 
