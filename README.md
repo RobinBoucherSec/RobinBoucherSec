@@ -6,10 +6,9 @@ Hello, I'm Robin</a> 👨🏻‍💻
 
 
 
-I am a dedicated student in cybersecurity at Cumberland College. I am so happy that I finally found a field of interest that really drives me. I am diving deep in cybersecurity and I will publish my work here. Enjoy!
+I am a dedicated cybersecurity student at Cumberland College. I’m grateful to have found a field that truly inspires and motivates me. I’m diving deep into the world of cybersecurity, and I will be sharing my work here as part of my ongoing journey.
 
-
-Here, I showcase my ongoing projects in the form of a portfolio.
+This repository serves as my portfolio, where I showcase my projects and progress in the field of cybersecurity. Enjoy exploring!
 
 <h1>
 
@@ -20,7 +19,6 @@ Here, I showcase my ongoing projects in the form of a portfolio.
 | Hashes                                        | <a href="https://github.com/RobinBoucherSec/Hashcat-Intro">Making and Cracking Hashes Lab</a>|
 | Networking                                    | <a href="https://github.com/RobinBoucherSec/Cisco-Packet-Tracer-Basic-Network/blob/main/README.md">Detection Lab</a>|
 | Identity Access Management IAM                | <a href="https://github.com/RobinBoucherSec/Active-Directory-Home-Lab">Active Directory Home Lab
-| Other subject of projects                     | <a href="ENTER THE GITHUB LINK HERE">WITH THE NAME HERE
 
 ## Tools
 
