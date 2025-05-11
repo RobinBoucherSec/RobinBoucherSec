@@ -10,6 +10,8 @@ I am a dedicated cybersecurity student at Cumberland College. I’m grateful to 
 
 This repository serves as my portfolio, where I showcase my projects and progress in the field of cybersecurity. Enjoy exploring!
 
+How to reach me: *myproffessionnalemail*
+
 <h1>
 
 ## Skills
@@ -58,4 +60,5 @@ This repository serves as my portfolio, where I showcase my projects and progres
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/pinkymacaroni.png" alt="Your Image Badge" />
+
 
