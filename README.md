@@ -17,7 +17,7 @@ This repository serves as my portfolio, where I showcase my projects and progres
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Hashes                                        | <a href="https://github.com/RobinBoucherSec/Hashcat-Intro">Making and Cracking Hashes Lab</a>|
-| Networking                                    | <a href="https://github.com/RobinBoucherSec/Cisco-Packet-Tracer-Basic-Network/blob/main/README.md">Detection Lab</a>|
+| Networking                                    | <a href="https://github.com/RobinBoucherSec/Cisco-Packet-Tracer-Basic-Network/blob/main/README.md">Cisco Packet Tracer</a>|
 | Identity Access Management IAM                | <a href="https://github.com/RobinBoucherSec/Active-Directory-Home-Lab">Active Directory Home Lab
 
 ## Tools
