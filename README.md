@@ -58,14 +58,7 @@ This repository serves as my portfolio, where I showcase my projects and progres
 
 [TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3550490)
 
-![TryHackMe Profile](https://tryhackme.com/badge/image/3550490 )
+<div>
+  <img src="https://img.shields.io/badge/-TryHackMe-21202F?style=for-the-badge&logo=https ://www.tryhackme.com/img/THMlogo.svg&logoColor=white" />
+</div>
 
-![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-21%20Completed-success?logo=https ://www.tryhackme.com/img/THMlogo.svg&logoColor=white&color=blue)
-
-[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3550490)
-
-
-![TryHackMe Profile](https://tryhackme.com/badge/image/3550490 )
-
-
-![TryHackMe Rooms](https://img.shields.io/badge/TryHackMe-21%20Completed-success?logo=https ://www.tryhackme.com/img/THMlogo.svg&logoColor=white&color=orange)
