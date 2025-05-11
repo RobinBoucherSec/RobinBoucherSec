@@ -56,6 +56,6 @@ This repository serves as my portfolio, where I showcase my projects and progres
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robin-boucher-6a0327267/)
 
-[!TryHackMe Badge](https://tryhackme.com/badge/image/3550490)
+[!TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3550490)
 
 
